@@ -1,0 +1,23 @@
+.app {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 25px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.todo-list {
+  text-align: center;
+}
+
+.todo-list ul {
+  padding: 0;
+}
+
+.todo-list ul li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+.task {
+  text-align: center;
+}

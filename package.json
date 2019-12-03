@@ -1,0 +1,33 @@
+{
+  "name": "react-state-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typeface-roboto": "0.0.75",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "@types/uuid": "^3.4.6",
+    "css-loader": "^3.4.1",
+    "file-loader": "^4.3.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.1.2",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
